@@ -16,7 +16,6 @@ public class CiCdTestApplication {
 	}
 	
 	
-
 	public static void main(String[] args) {
 		SpringApplication.run(CiCdTestApplication.class, args);
 	}
